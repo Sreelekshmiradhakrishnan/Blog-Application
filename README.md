@@ -12,7 +12,7 @@
 ## Description <a name="description"></a>
 
 
-It is a full-stack blog web application built with React on the frontend and Django/DRF on the backend integrated with AWS-S3 & AWS-RDS services.
+It is a full-stack blog web application built with React on the frontend and Django/DRF on the backend.
 
 <ins>Features:</ins>
 
@@ -46,7 +46,7 @@ It is a full-stack blog web application built with React on the frontend and Dja
 
 ## API Documentation <a name="api-documentation"></a>
 
-All the endpoints are listed below. However, to view the details of the endpoints, visit [Chronicles Api Docs](https://documenter.getpostman.com/view/25138891/2s935oL3mZ).
+All the endpoints are listed below.
 
 - <ins>Users</ins>:
 
