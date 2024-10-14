@@ -1,4 +1,4 @@
-# Chronicles
+# Blog Application
 
 ## Table of contents
 
